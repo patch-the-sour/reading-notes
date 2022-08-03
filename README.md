@@ -6,3 +6,4 @@
 - [reading-04](./reading-04.md)
 - [reading-05](./reading-05.md)
 - [reading-06](./reading-06.md)
+- [readind-07](./reading-07.md)
