@@ -7,4 +7,5 @@
 - [reading-05](./reading-05.md)
 - [reading-06](./reading-06.md)
 - [reading-07](./reading-07.md)
-- [reading-08](./reading-07.md)
+- [reading-08](./reading-08.md)
+- [reading-09](./reading-09.md)
