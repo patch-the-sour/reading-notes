@@ -47,3 +47,4 @@ Writing skills. Superior written communication is one of the most important soft
 Training skills. In many cases, technicians provide training to users so that the users can resolve problems on their own the next time they occur. This can be informal one-on-one training or in some cases formal classroom training.
 
  Source:[Effective Help Desk Specialist Skills](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
+
