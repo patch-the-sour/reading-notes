@@ -17,3 +17,4 @@ Visual Studio Code is a streamlined code editor with support for development ope
 The Docker extension makes it easy to build, manage, and deploy containerized applications in Visual Studio Code.
 
 Sources: https://code.visualstudio.com/docs
+
