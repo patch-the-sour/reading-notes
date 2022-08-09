@@ -1,5 +1,5 @@
-# Class 06 Reading notes
-## Window 10 Event Reader
+
+# Window 10 Event Reader
 Helps us view a detailed log of all your applications running in Windows 10
 Also provides errors that may have occurred
 Helps figure out the root cause
