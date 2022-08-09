@@ -38,3 +38,4 @@ executing a System Restore, which allows for undoing the restore.
 ## Things I want to know more about
 Would it be smart to back up everything on a usb before doing this since it does not restore personal files?
 
+ 
