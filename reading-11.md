@@ -51,3 +51,4 @@ Many SSDs utilize TRIM, an Advanced Technology Attachment (ATA) command that hel
 DBAN is potentially just moments away from irreversibly erasing all the files on all your hard drives, so be sure to pay close attention to the instructions in this step and the following ones.
 
 Please know that DBAN is designed to be used with your keyboard only... your mouse is useless in this program.
+
