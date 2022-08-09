@@ -37,3 +37,4 @@ Flowcharts and diagrams tell a story. People learn and interpret information in 
 Consistency counts. Develop and use a consistent format or template to help make the SOP consumable.
 
 It’s about the audience. However you write your SOPs, keep in mind that you’re writing them for your audience. If the SOP does not work for your audience, your SOP doesn’t work. Conduct regular periodic reviews of SOPs with the people that use them to identify and incorporate improvements.
+
