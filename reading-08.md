@@ -26,3 +26,4 @@ To get started, you’ll open the Registry Editor application. To do so, press W
 You’ll be asked to agree to a User Account Control prompt before continuing. This gives the Registry Editor the ability to modify system settings.
  Navigate to whatever key you need to modify in the left pane. You’ll know where you need to be because the instructions for the registry hack you’re trying to apply will tell you.
 On Windows 10, you can also just copy-paste an address into the Registry Editor’s address bar and press Enter.
+
