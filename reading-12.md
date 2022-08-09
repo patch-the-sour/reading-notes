@@ -52,3 +52,4 @@ pfSense can also be installed on several different embedded platforms such as PC
 
 Embedded installs are a good option if you are looking to create a small, quiet, low power appliance to run your network.
 
+
