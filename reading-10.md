@@ -79,3 +79,4 @@ Send restored items as email attachments to specific users
 
 Veeam Explorer for Microsoft SharePoint recovers items without pulling the whole VM image into production storage, which saves you premium storage space.  It also does not require installation of agents. 
  
+
